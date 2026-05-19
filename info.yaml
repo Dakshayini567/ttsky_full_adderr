@@ -25,7 +25,7 @@ pinout:
   # Inputs
   ui[0]: "a"
   ui[1]: "b"
-  ui[2]: "c"
+  ui[2]: "cin"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
@@ -34,7 +34,7 @@ pinout:
 
   # Outputs
   uo[0]: "sum"
-  uo[1]: "carry"
+  uo[1]: "cout"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
