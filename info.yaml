@@ -1,5 +1,5 @@
 # Tiny Tapeout project information
-project:
+project:full_adder
   title:        ""      # full_adder
   author:       ""      # Dakshayini A V
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
